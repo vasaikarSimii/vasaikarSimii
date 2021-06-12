@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vasaikarSimii
-- 👀 I’m interested in Software Development and Process Improvement 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on cool web development projects
+- 👋 Hi, I’m Simii (Name given by Parents : Seemin Vasaikar)
+- 👀 I’m a curious coder, and Process Improvement enthusiast
+- 🌱 I’m a 3+ year industry experienced software engineer currently learning JavaScript 
+- 💞️ I’m looking to collaborate on cool web development projects 
 - 📫 Reach me at: vasaikar.s@northeastern.edu
 
 <!---
