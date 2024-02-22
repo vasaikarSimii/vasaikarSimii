@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simii (Name given by Parents : Seemin Vasaikar)
 - 👀 I’m a curious software engineer and Process Improvement enthusiast
 - 👩🏻‍🎓 I have a Masters Degree in Information Systems from Northeastern University, Boston
-- 🌱 I’m a 3+ year industry experienced software engineer specializing in Backend and Cloud Technologies 
+- 🌱 I’m a 4+ year industry experienced software engineer specializing in Backend and Cloud Technologies 
 - 💞️ I aspire to work in a team of cool techies collaborating to develop an impactful product
 - 📫 Reach me at: vasaikar.s@northeastern.edu
 
